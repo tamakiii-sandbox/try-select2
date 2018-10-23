@@ -5,5 +5,8 @@
   "repository": "git@github.com:tamakiii-sandbox/try-select2.git",
   "author": "tamakiii <tamakiii@users.noreply.github.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "select2": "^4.0.6-rc.1"
+  }
 }
