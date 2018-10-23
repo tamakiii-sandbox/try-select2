@@ -1,0 +1,9 @@
+{
+  "name": "tamakiii-sandbox.try-select2",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tamakiii-sandbox/try-select2.git",
+  "author": "tamakiii <tamakiii@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true
+}
